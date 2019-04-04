@@ -1,0 +1,51 @@
+Gettin' into the Guild Ball Community
+Heya! This is a quick guide for getting into Guild Ball (henceforth “GB”) — resources to use, communities to join, places to find information, and so on. I’m going to try to keep this short but still give you the context you need to hop in and get ballin’.
+
+Game Information Resources
+Guild Ball Rules — Resources Link — Scroll most of the way down for links to PDFs of the latest rulebook, latest errata (typically labeled “Errata Changelog” followed by a version number), standard tournament rules (labeled “Regional Cup”), and, near the bottom but above Resident Evil, PDFs of all of the guilds’ released cards. ALL RULES OF GB ARE FREE. 
+Guild Ball Manager App — Apple Link or Android Link — This is the officially sanctioned app for tracking cards (i.e. health totals and so on) while playing a game of GB, if you don’t want to buy/print the cards. There are other apps available, but this (fan-made) app is made by Ben Lang, who is directly partnered with SFG. 
+Print-on-Demand Cards — DriveThruCards Link — As of roughly February, 2019, GB models no longer come with cards. You can download and print PDFs of the cards yourself from the links above, or use Guild Ball Manager or another app, but if you’d prefer nice high-quality cards, you can buy them from DriveThruCards here. DriveThruCards is directly partnered with SFG and the cards are updated here as new models are released. 
+Steamforged Blog — Blog Link — This blog (filtered in this hyperlink to only show GB blog posts) is a good way to keep updated on new releases or upcoming big events for GB. When new models are released, this blog will typically have a post with thoughts on the model from the developers.
+Steamforged YouTube Channel — YouTube Link — This YouTube channel covers all of SFG’s games, not exclusively GB. GB content typically involves model previews with a sneak peak of a new model’s rules and/or its sculpt. 
+
+Longshanks
+Though the links above are where you can find all official rules, information, and news about GB, longshanks.org is the respiratory system of the GB community. Longshanks (henceforth “LS”) is a fan-made website that runs all of these functions crucial to a competitive minis games:
+Event-management system including automated pairing, record-tracking, links to location/event information on social media sites, and so-on
+Event calendar for easily finding tournaments in your area, plus a calendar specifically for official nationals events
+Global ranking among players (read about how it’s calculated here)
+Robust statistical tracking of winrates for guilds, captains and more
+Useful tools for randomly distributing terrain, calculating odds of a specific roll of dice, printing out paper-doll standees to act as models for a test game, and so-on
+Recently, LS also started a fan-written column for writers without a specific affiliated outlet to write about GB in general.
+I highly recommend making an LS account either just before or just after your first GB event! You can nickname yourself, register for events, track previously-attended events, and more. LS is free to use, though some of deeper or more complex functions (mostly to do with the statistics pages) require a subscription, the payment of which is used to maintain the website. 
+
+Talking About the Game
+Most social media platforms have some form of GB presence.
+Facebook — Gu.B.S. — “Guild Ball Supporters” (shortened here and on the group itself as “GUBS”) is the catchall discussion and news Facebook group. There are also guild-specific Facebook groups which are easy to find through the Facebook search function or by asking someone on GUBS or elsewhere for a link. GUBS started as a fan-made page but is not officially controlled and moderated by SFG. 
+Reddit — www.reddit.com/r/guildball/ — A GB subreddit! It does what subreddits do, it’s a catchall forum and chat area. Fan-moderated. 
+Twitter — The nature of Twitter means there’s no one specific hub for discussion, but in addition to the official GB account most SFG employees and most top GB players have accounts from which they discuss, post thoughts, and so-on. 
+Discord — guildball.zone — Arguably the second-most active place for GB discussion (behind GUBS) is this discord server, the “Guild Ball Zone.” This server has a variety of channels for discussing a wide set of topics, including a section explicitly for new players. Fan-moderated.
+
+Media Covering the Game
+There are a great many podcasts, blogs, and YouTube channels that cover GB either exclusively or extensively. I’m loathe to try to list them all here (and would definitely forget some), but LS has a “Community Resources” pages with many (though not all) of these outlets listed. Searching “Guild Ball” on YouTube or any of the large variety of podcast trackers is a good way to find them as well. Finally, asking for media recommendations on any of the social media platforms above will naturally help you find the exact type of content you’re looking for.
+A special note for streaming: some Guild Ball communities or players will stream tournament or casual games periodically. This includes SFG themselves, who often stream tournament matches from Nationals events (typically those in the UK, given SFG’s location as a company) on this Twitch channel. You can “follow” them on Twitch if you’d like notifications when their stream goes live. 
+
+Buying the Game
+Guild Ball miniatures and accessories will often require you to source different components from a variety of outlets. This list is not comprehensive; beyond official SFG outlets, this is simply a list of the most common places to purchase things for the game that I see cited on social media. 
+Local Game Stores — Your local game/hobby store may have GB stock, or you could speak to them to encourage them to buy Guild Ball stock. 
+SFG Webstore — SFG’s official webstore stocks, of course, GB models, GB accessories and mats, and their other games’ materials as well. 
+Miniatures Market — Minis Market has limited GB stock and is a popular wargames retailer, particularly for the US. 
+Discount Games Inc — DGI has GB stock and is a popular wargames retailer, particularly for the US.
+Element Games — EG has GB stock and is a popular wargames retailer, particularly for the UK and Europe.
+Muse On Minis — Muse makes the US side of the official token sets for GB, as well as a variety of other accessories for GB such as terrain, measurement widgets, and so on. Muse’s tokens are also sold on the SFG webstore!
+Frozen Forge — FF makes the UK/EU side of the official token sets for GB, as well as a variety of other accessories for GB such as terrain, measurement widgets, and so on. Frozen Forge’s tokens are also sold on the SFG webstore!
+
+Playing the Game Online
+Like many miniatures wargames, Guild Ball has a module for running the game on Vassal, a tabletop simulator. These are some links to help you get started testing out the game against players from all over the world.
+Vassal — Download Vassal here.
+GB Vassal Community — You can look for games, talk to people about the Vassal module, and find links to the Vassal module itself in two main hubs: the Vassal Ball Facebook page and the Vassal section of the Guild Ball Zone Discord. Players will often organize entire tournaments played out on Vassal; they tend to gather and organize in these two hubs as well (and track the tournaments on Longshanks).
+Learning the Module — Though it’s now a couple years old, this blog post is still often linked for a brief explanation of how to play Guild Ball on Vassal. The standard controls have not changed since this was written. 
+
+I’m a Guild Baller - What Next?
+Ok, so you got your models, played some games, and are heading to an event next month. Sweet! Welcome. Beyond chatting people up on the various community hubs listed above and checking out some of the more competitive-minded podcasts, I’d recommend these two Momentous Tackle articles:
+One is about upping your personal play and entering into the world of competitive GB play with strong fundamentals. No skill level is required to play GB, but upping your game is one of the great joys of a competitive game. 
+The other is about growing a local GB scene, written by someone who has done just that. Considering running your own tournaments or becoming a pundit? This article is a great primer for that process.
